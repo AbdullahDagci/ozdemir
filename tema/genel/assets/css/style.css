@@ -12000,6 +12000,7 @@ body.megamenu-popup-active .mobile-nav__content {
     padding-top: 230px;
     padding-bottom: 230px;
     height: 83vh;
+    min-height: 600px;
 }
 
 @media (max-width: 1150px) {
